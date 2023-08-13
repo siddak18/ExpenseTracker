@@ -1,7 +1,8 @@
 import axios from 'axios';
 
-// const url="https://expensetracker-760k.onrender.com";
-const url="http://localhost:8000"
+
+const url="https://expensetracker-760k.onrender.com";
+// const url="http://localhost:8000"
 
 
 export const call=async(user)=>{
